@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Users\\hongkl\\AndroidStudioProjects\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\anim_refreshing_image.xml",
+        "source": "E:\\Users\\hongkl\\AndroidStudioProjects\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\anim_refreshing_image.xml"
+    },
+    {
+        "merged": "E:\\Users\\hongkl\\AndroidStudioProjects\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\Users\\hongkl\\AndroidStudioProjects\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\hongkl\\AndroidStudioProjects\\CaiNiao5\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\anim_refreshing_image.xml",
+        "source": "E:\\Users\\hongkl\\AndroidStudioProjects\\CaiNiao5\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\anim_refreshing_image.xml"
+    },
+    {
+        "merged": "E:\\Users\\hongkl\\AndroidStudioProjects\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\Users\\hongkl\\AndroidStudioProjects\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\Android\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\anim_refreshing_image.xml",
+        "source": "E:\\Android\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\anim_refreshing_image.xml"
+    },
+    {
+        "merged": "E:\\Android\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\Android\\Cainiaotuan\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\hongkl\\AndroidStudioProjects\\CaiNiao5\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\Users\\hongkl\\AndroidStudioProjects\\CaiNiao5\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\hongkl\\AndroidStudioProjects\\CaiNiao5\\libs_PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\Users\\hongkl\\AndroidStudioProjects\\CaiNiao5\\libs_PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
